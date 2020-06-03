@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: ivory;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+h1 {
+    color: olive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background: aquamarine;
+    margin-top: 0px;
+}
+.description {
+    text-decoration: underline;
+    text-decoration-color: crimson;
+    color: rgb(74, 39, 156);
+    text-align: center;
+}
+h4 {
+    color: darkgoldenrod;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: crimson;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    
+}
+.Messi {
+    height: 950px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+.Messi_list {
+    
+    color: darksalmon;
+    font-family: cursive;
+    text-align: center;
+    display: flex;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    padding: 2px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    float: right;
+    width: 25%;
+    height: 60%;
+}
+P {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-start;
+    width: 70%;
+}
+h5 {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: orange;
+    display: flex;
+    justify-content: flex-start;
+}
+.WTA {
+    display: flex;
+    justify-content: flex-start;
+}
+.hike {
+    text-align: center;
+    color: mediumslateblue;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 300px;    
+}
+.content {
+    margin: 10px;
+}
+.Messi_1 {
+    border-radius: 20%;
+}
+.Messi_2 {
+    border-radius: 20%;
+}
+.Messi_3 {
+    border-radius: 20%;
+}
+.Messi_4 {
+    border-radius: 20%;
+}
+.hyperlink {
+    background-color: skyblue;
+    color: snow;
+    padding: 50px;
+    margin: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
